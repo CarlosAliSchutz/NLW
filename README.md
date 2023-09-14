@@ -32,7 +32,7 @@ npm run server
 
 ## Tecnologias usadas
 
-[![My Skills](https://skillicons.dev/icons?i=vite,nodejs,html,css,js&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vite,nodejs,html,css,js&perline=5)](https://skillicons.dev)
 
 ## Capturas de Tela
 
